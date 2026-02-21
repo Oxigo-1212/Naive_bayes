@@ -1,6 +1,6 @@
 # Spam Filter in Rust
 
-A simple Naive Bayes classifier implemented in Rust for detecting spam emails based on word frequency.\\
+A simple Naive Bayes classifier implemented in Rust for detecting spam emails based on word frequency. 
 A project for recreastional purposes, inspired by the need to understand machine learning concepts and Rust programming.
 
 
